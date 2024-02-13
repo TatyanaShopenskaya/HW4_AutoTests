@@ -1,4 +1,4 @@
-package org.max.demo;
+package java.org.max.demo;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Assertions;

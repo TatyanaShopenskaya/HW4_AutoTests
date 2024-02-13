@@ -1,4 +1,4 @@
-package org.max.demo;
+package java.org.max.demo;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;

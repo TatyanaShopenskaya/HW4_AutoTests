@@ -1,11 +1,11 @@
-package org.max.home;
+package java.org.max.home;
 
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
-import org.max.seminar.CurrentEntity;
+import java.org.max.seminar.CurrentEntity;
 
 import javax.persistence.PersistenceException;
 import java.sql.ResultSet;

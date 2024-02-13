@@ -1,4 +1,4 @@
-package org.max.seminar;
+package java.org.max.seminar;
 
 import org.hibernate.query.Query;
 import org.junit.jupiter.api.Assertions;

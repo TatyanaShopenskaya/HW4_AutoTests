@@ -1,4 +1,4 @@
-package org.max.home;
+package java.org.max.home;
 
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
